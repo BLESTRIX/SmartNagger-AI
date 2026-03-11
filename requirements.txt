@@ -1,0 +1,47 @@
+# Core Framework
+streamlit
+
+# Supabase Database
+supabase
+postgrest
+
+# Groq AI API
+groq
+
+# AI/ML Libraries
+torch
+torchvision
+scikit-learn
+
+# PDF Generation
+fpdf
+
+# Image Processing
+Pillow
+
+# Maps and Location
+geopy
+folium
+streamlit-folium
+
+# Data Processing
+pandas
+numpy
+
+# Visualization
+plotly
+
+# HTTP Requests
+requests
+
+# Country/Region handling
+pycountry
+
+# Additional utilities
+python-dotenv
+
+imageio-ffmpeg
+
+whisper
+
+transformers
